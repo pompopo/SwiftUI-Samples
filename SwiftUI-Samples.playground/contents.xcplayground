@@ -3,5 +3,6 @@
     <pages>
         <page name='Text'/>
         <page name='Stack'/>
+        <page name='Image'/>
     </pages>
 </playground>
