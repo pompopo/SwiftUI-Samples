@@ -8,7 +8,6 @@ struct ContentView : View {
             .font(.largeTitle)
             .color(.gray)
             .bold()
-            .underline()
             .kerning(5)
             .lineLimit(2)
             .lineSpacing(3)
