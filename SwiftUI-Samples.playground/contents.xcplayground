@@ -4,5 +4,6 @@
         <page name='Text'/>
         <page name='Stack'/>
         <page name='Image'/>
+        <page name='List'/>
     </pages>
 </playground>
