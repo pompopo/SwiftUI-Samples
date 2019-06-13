@@ -26,7 +26,7 @@ struct FirstPage: View {
 struct SecondPage: View {
     var body: some View {
         Text("Second")
-            .navigationBarTitle(Text("Second"))
+            .navigationBarTitle(Text("Second"), displayMode: .inline)
     }
 }
 PlaygroundPage.current.liveView = UIHostingController(rootView: ContentView())
