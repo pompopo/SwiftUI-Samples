@@ -6,6 +6,8 @@ struct ContentView : View {
     var body: some View {
         VStack {
             Image(systemName: "heart")
+                .imageScale(.large)
+                .foregroundColor(.red)
             // crash
 //            Image("bird_inko_yellow")
         }
